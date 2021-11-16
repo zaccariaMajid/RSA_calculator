@@ -1,0 +1,11 @@
+D:\C#\Majid_RSA_avanzato\Majid_RSA_avanzato\bin\Debug\Majid_RSA_avanzato.exe.config
+D:\C#\Majid_RSA_avanzato\Majid_RSA_avanzato\bin\Debug\Majid_RSA_avanzato.exe
+D:\C#\Majid_RSA_avanzato\Majid_RSA_avanzato\bin\Debug\Majid_RSA_avanzato.pdb
+D:\C#\Majid_RSA_avanzato\Majid_RSA_avanzato\obj\Debug\Majid_RSA_avanzato.csproj.AssemblyReference.cache
+D:\C#\Majid_RSA_avanzato\Majid_RSA_avanzato\obj\Debug\Majid_RSA_avanzato.csproj.SuggestedBindingRedirects.cache
+D:\C#\Majid_RSA_avanzato\Majid_RSA_avanzato\obj\Debug\Majid_RSA_avanzato.Form1.resources
+D:\C#\Majid_RSA_avanzato\Majid_RSA_avanzato\obj\Debug\Majid_RSA_avanzato.Properties.Resources.resources
+D:\C#\Majid_RSA_avanzato\Majid_RSA_avanzato\obj\Debug\Majid_RSA_avanzato.csproj.GenerateResource.cache
+D:\C#\Majid_RSA_avanzato\Majid_RSA_avanzato\obj\Debug\Majid_RSA_avanzato.csproj.CoreCompileInputs.cache
+D:\C#\Majid_RSA_avanzato\Majid_RSA_avanzato\obj\Debug\Majid_RSA_avanzato.exe
+D:\C#\Majid_RSA_avanzato\Majid_RSA_avanzato\obj\Debug\Majid_RSA_avanzato.pdb
